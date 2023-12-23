@@ -1,5 +1,8 @@
+# Followed along from "3 Python Automation Projects - For Beginners", https://www.youtube.com/watch?v=zT7niRUOs9o
 # Uses a free currency conversion API - freecurrencyapi.com
 # tempemail viwocib516@vkr1.com, email was deleted and password is forgotten :(( ip address is there too but hope it's fine..
+
+
 
 import requests # already imported via pip
 
