@@ -3,7 +3,6 @@
 # tempemail viwocib516@vkr1.com, email was deleted and password is forgotten :(( ip address is there too but hope it's fine..
 
 
-
 import requests # already imported via pip
 
 API_KEY = '' # constant valued variable

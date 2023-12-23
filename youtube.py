@@ -41,4 +41,5 @@ if __name__ == "__main__":
     if not save_dir:
         print("Invalid save location")
     else:
+        print("Downloading now...")
         download_video(video_url, save_dir)
